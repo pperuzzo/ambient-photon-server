@@ -1,0 +1,45 @@
+2020-04-13 13:46:11,221 [1] INFO  Photon.StarDust.Client.Program - Starting 5 games with 3 players
+2020-04-13 13:46:11,332 [4] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.1.5:5056
+2020-04-13 13:46:11,685 [6] INFO  Photon.StarDust.Client.Program - [117948] Started game DESKTOP-E96JB2F(117948)1 with 3 clients
+2020-04-13 13:46:11,811 [5] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.1.5:5056
+2020-04-13 13:46:12,015 [4] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.1.5:5056
+2020-04-13 13:46:12,030 [6] INFO  Photon.StarDust.Client.Program - [117948] Started game DESKTOP-E96JB2F(117948)2 with 3 clients
+2020-04-13 13:46:12,156 [16] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.1.5:5056
+2020-04-13 13:46:12,156 [15] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.1.5:5056
+2020-04-13 13:46:12,233 [16] DEBUG Photon.StarDust.Client.Program - peers: 7, r-ev: 12.62479, ur-ev: 0, r-op: 31.56196, ur-op: 0, res: 21.04128, r-rtt: 46, ur-rtt: 0, rtt: 6, var: 31.33333, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-04-13 13:46:12,422 [7] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.1.5:5056
+2020-04-13 13:46:12,526 [14] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.1.5:5056
+2020-04-13 13:46:12,530 [6] INFO  Photon.StarDust.Client.Program - [117948] Started game DESKTOP-E96JB2F(117948)3 with 3 clients
+2020-04-13 13:46:12,683 [50] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.1.5:5056
+2020-04-13 13:46:12,827 [62] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.1.5:5056
+2020-04-13 13:46:12,999 [6] INFO  Photon.StarDust.Client.Program - [117948] Started game DESKTOP-E96JB2F(117948)4 with 3 clients
+2020-04-13 13:46:13,031 [51] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.1.5:5056
+2020-04-13 13:46:13,109 [63] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.1.5:5056
+2020-04-13 13:46:13,233 [14] DEBUG Photon.StarDust.Client.Program - peers: 14, r-ev: 116.0195, ur-ev: 0, r-op: 86.0145, ur-op: 0, res: 26.00438, r-rtt: 38.91398, ur-rtt: 0, rtt: 6.818182, var: 28.36364, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-04-13 13:46:13,326 [15] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.1.5:5056
+2020-04-13 13:46:13,466 [54] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.1.5:5056
+2020-04-13 13:46:13,468 [6] INFO  Photon.StarDust.Client.Program - [117948] Started game DESKTOP-E96JB2F(117948)5 with 3 clients
+2020-04-13 13:46:13,810 [62] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.1.5:5056
+2020-04-13 13:46:13,876 [16] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.1.5:5056
+2020-04-13 13:46:14,245 [49] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 228.1711, ur-ev: 0, r-op: 133.3468, ur-op: 0, res: 13.82855, r-rtt: 44.12273, ur-rtt: 0, rtt: 11.26667, var: 15.86667, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-04-13 13:46:15,250 [6] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 268.6663, ur-ev: 0, r-op: 134.3331, ur-op: 0, res: 0, r-rtt: 41.58519, ur-rtt: 0, rtt: 15.73333, var: 7, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-04-13 13:46:16,261 [61] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 279.9188, ur-ev: 0, r-op: 136.4975, ur-op: 0, res: 0, r-rtt: 42.12721, ur-rtt: 0, rtt: 16.93333, var: 6.466667, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-04-13 13:46:17,262 [53] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 270.8398, ur-ev: 0, r-op: 136.919, ur-op: 0, res: 0, r-rtt: 44.26199, ur-rtt: 0, rtt: 17.26667, var: 7.133333, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-04-13 13:46:18,262 [55] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 269.8861, ur-ev: 0, r-op: 137.9418, ur-op: 0, res: 0, r-rtt: 43.08519, ur-rtt: 0, rtt: 17.4, var: 6.666667, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-04-13 13:46:19,264 [6] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 275.7009, ur-ev: 0, r-op: 137.8504, ur-op: 0, res: 0, r-rtt: 43.52174, ur-rtt: 0, rtt: 17.66667, var: 7.266667, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-04-13 13:46:20,266 [64] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 279.3526, ur-ev: 0, r-op: 134.6879, ur-op: 0, res: 0, r-rtt: 42.42857, ur-rtt: 0, rtt: 17.8, var: 7.866667, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-04-13 13:46:21,279 [55] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 272.4852, ur-ev: 0, r-op: 138.2172, ur-op: 0, res: 0, r-rtt: 43.78986, ur-rtt: 0, rtt: 16.86667, var: 7.2, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-04-13 13:46:22,281 [63] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 274.3216, ur-ev: 0, r-op: 135.6645, ur-op: 0, res: 0, r-rtt: 42.6, ur-rtt: 0, rtt: 17.46667, var: 6.733333, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-04-13 13:46:23,294 [49] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 277.4101, ur-ev: 0, r-op: 139.1987, ur-op: 0, res: 0, r-rtt: 45.37722, ur-rtt: 0, rtt: 17.26667, var: 7.8, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-04-13 13:46:24,295 [7] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 268.648, ur-ev: 0, r-op: 136.8208, ur-op: 0, res: 0, r-rtt: 45.24163, ur-rtt: 0, rtt: 16.53333, var: 7, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-04-13 13:46:25,297 [16] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 277.541, ur-ev: 0, r-op: 138.7705, ur-op: 0, res: 0, r-rtt: 44.16547, ur-rtt: 0, rtt: 16.8, var: 7.133333, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-04-13 13:46:26,310 [5] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 281.4538, ur-ev: 0, r-op: 135.2953, ur-op: 0, res: 0, r-rtt: 43.97193, ur-rtt: 0, rtt: 16.93333, var: 7.133333, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-04-13 13:46:27,310 [56] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 269.8114, ur-ev: 0, r-op: 135.905, ur-op: 0, res: 0, r-rtt: 43.82593, ur-rtt: 0, rtt: 17.2, var: 7.8, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-04-13 13:46:28,324 [7] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 271.4207, ur-ev: 0, r-op: 139.1648, ur-op: 0, res: 0, r-rtt: 41.03637, ur-rtt: 0, rtt: 18.4, var: 7.133333, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-04-13 13:46:29,327 [61] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 278.0042, ur-ev: 0, r-op: 134.5182, ur-op: 0, res: 0, r-rtt: 43.74194, ur-rtt: 0, rtt: 17.46667, var: 7.333333, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-04-13 13:46:30,328 [55] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 271.7561, ur-ev: 0, r-op: 139.8744, ur-op: 0, res: 0, r-rtt: 40.31985, ur-rtt: 0, rtt: 17, var: 6.666667, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-04-13 13:46:31,340 [55] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 272.8942, ur-ev: 0, r-op: 137.4358, ur-op: 0, res: 0, r-rtt: 42.31884, ur-rtt: 0, rtt: 17, var: 6.666667, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-04-13 13:46:32,342 [53] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 273.1742, ur-ev: 0, r-op: 135.5901, ur-op: 0, res: 0, r-rtt: 44.13818, ur-rtt: 0, rtt: 17.46667, var: 7.4, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-04-13 13:46:33,344 [57] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 277.5299, ur-ev: 0, r-op: 135.77, ur-op: 0, res: 0, r-rtt: 44.30325, ur-rtt: 0, rtt: 17.26667, var: 7.066667, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-04-13 13:46:34,344 [64] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 272.1896, ur-ev: 0, r-op: 139.0969, ur-op: 0, res: 0, r-rtt: 43.19853, ur-rtt: 0, rtt: 16.4, var: 7.066667, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-04-13 13:46:35,354 [50] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 275.9642, ur-ev: 0, r-op: 140.4549, ur-op: 0, res: 0, r-rtt: 44.525, ur-rtt: 0, rtt: 17, var: 7.466667, flsh-rtt: 0, flsh-ev 0, flsh-op 0

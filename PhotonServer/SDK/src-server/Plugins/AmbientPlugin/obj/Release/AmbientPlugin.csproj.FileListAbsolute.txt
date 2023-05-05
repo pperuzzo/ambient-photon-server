@@ -1,0 +1,12 @@
+S:\PhotonServer\SDK\src-server\Plugins\AmbientPlugin\bin\Release\AmbientPlugin.dll
+S:\PhotonServer\SDK\src-server\Plugins\AmbientPlugin\bin\Release\AmbientPlugin.pdb
+S:\PhotonServer\SDK\src-server\Plugins\AmbientPlugin\bin\Release\Newtonsoft.Json.dll
+S:\PhotonServer\SDK\src-server\Plugins\AmbientPlugin\bin\Release\PhotonHive.WebHooksPlugin1.2.dll
+S:\PhotonServer\SDK\src-server\Plugins\AmbientPlugin\bin\Release\PhotonHivePlugin.dll
+S:\PhotonServer\SDK\src-server\Plugins\AmbientPlugin\bin\Release\Newtonsoft.Json.xml
+S:\PhotonServer\SDK\src-server\Plugins\AmbientPlugin\bin\Release\PhotonHive.WebHooksPlugin1.2.pdb
+S:\PhotonServer\SDK\src-server\Plugins\AmbientPlugin\obj\Release\AmbientPlugin.csprojAssemblyReference.cache
+S:\PhotonServer\SDK\src-server\Plugins\AmbientPlugin\obj\Release\AmbientPlugin.csproj.CoreCompileInputs.cache
+S:\PhotonServer\SDK\src-server\Plugins\AmbientPlugin\obj\Release\AmbientPlugin.csproj.CopyComplete
+S:\PhotonServer\SDK\src-server\Plugins\AmbientPlugin\obj\Release\AmbientPlugin.dll
+S:\PhotonServer\SDK\src-server\Plugins\AmbientPlugin\obj\Release\AmbientPlugin.pdb

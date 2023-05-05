@@ -1,0 +1,11 @@
+C:\Users\pierl\Desktop\PhotonServer\SDK\src-server\HivePlugin\bin\Release\PhotonHivePlugin.dll
+C:\Users\pierl\Desktop\PhotonServer\SDK\src-server\HivePlugin\bin\Release\PhotonHivePlugin.pdb
+C:\Users\pierl\Desktop\PhotonServer\SDK\src-server\HivePlugin\obj\Release\PhotonHivePlugin.csproj.CoreCompileInputs.cache
+C:\Users\pierl\Desktop\PhotonServer\SDK\src-server\HivePlugin\obj\Release\PhotonHivePlugin.dll
+C:\Users\pierl\Desktop\PhotonServer\SDK\src-server\HivePlugin\obj\Release\PhotonHivePlugin.pdb
+C:\publish\PhotonServer\SDK\src-server\HivePlugin\bin\Release\PhotonHivePlugin.dll
+C:\publish\PhotonServer\SDK\src-server\HivePlugin\bin\Release\PhotonHivePlugin.pdb
+C:\publish\PhotonServer\SDK\src-server\HivePlugin\obj\Release\PhotonHivePlugin.csprojAssemblyReference.cache
+C:\publish\PhotonServer\SDK\src-server\HivePlugin\obj\Release\PhotonHivePlugin.csproj.CoreCompileInputs.cache
+C:\publish\PhotonServer\SDK\src-server\HivePlugin\obj\Release\PhotonHivePlugin.dll
+C:\publish\PhotonServer\SDK\src-server\HivePlugin\obj\Release\PhotonHivePlugin.pdb
